@@ -1,0 +1,54 @@
+[
+	{
+		"id": 1,
+		"copiright": "©2016 Yamaha Motor Corporation, USA. All rights reserved.",
+		"list_bottomes": "Customer Service",
+		"mainlist": {
+			"item1": "Find a Dealer",
+			"item2": "Rider Training",
+			"item3": "Accessories",
+			"item4": "Yamaha Motor USA Home"
+		}
+	},
+	{
+		"id": 2,
+		"list_bottomes": "Contact Us",
+		"mainlist": {
+			"item1": "Current Offers",
+			"item2": "Purchase Tools",
+			"item3": "Apparel",
+			"item4": "Contact Us"
+		}	
+	},
+	{
+		"id": 3,
+		"list_bottomes": "Privacy Policy",
+		"mainlist": {
+			"item1": "Events & Demos",
+			"item2": "Try A Yamaha",
+			"item3": "Parts & Service",
+			"item4": "Privacy Policy"
+		}	
+	},
+	{
+		"id": 4,
+		"list_bottomes": "Terms & Conditions",
+		"mainlist": {
+			"item1": "News",
+			"item2": "View Owner's Manuals",
+			"item3": "View Parts Catalog",
+			"item4": "Terms & Conditions"
+			
+		}	
+	},
+	{
+		"id": 5,
+		"list_bottomes": "Dealer Login",
+		"mainlist": {
+			"item1": "Racing",
+			"item2": "Buy Manuals Online",
+			"item3": "Shop & Maintenance",
+			"item4": "Recalls"
+		}
+	}
+]
